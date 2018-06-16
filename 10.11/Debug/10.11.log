@@ -1,0 +1,7 @@
+﻿  gl.cpp
+c:\users\cysn\documents\visual studio 2015\projects\glex2\10.11\gl.cpp(11): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\cysn\documents\visual studio 2015\projects\glex2\10.11\gl.cpp(18): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\cysn\documents\visual studio 2015\projects\glex2\10.11\gl.cpp(21): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\cysn\documents\visual studio 2015\projects\glex2\10.11\gl.cpp(22): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+  10.11.vcxproj -> C:\Users\CYSN\documents\visual studio 2015\Projects\glEX2\Debug\10.11.exe
+  10.11.vcxproj -> C:\Users\CYSN\documents\visual studio 2015\Projects\glEX2\Debug\10.11.pdb (Full PDB)
